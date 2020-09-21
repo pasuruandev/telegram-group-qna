@@ -37,7 +37,7 @@ Server lokal mas, bukan vps
 ### 2. Import package bermasalah (Unity)
 
 Arif Ragil, [11.04.17 15:33]
-![ Photo ](https://pasuruan.dev/qna-assets/photo_2020-09-17_21-55-21.jpg)
+![ Photo ](docs/photo_2020-09-17_21-55-21.jpg)
 Lagi bikin game survival mas. . tp wkt mau import package knp yg muncul cuma custom package y mas. . mau import package character g ada. . Mohon bantuannya 🙏
 
 > _Deleted Account, [11.04.17 15:48]_
